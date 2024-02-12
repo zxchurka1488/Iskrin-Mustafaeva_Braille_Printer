@@ -18,7 +18,6 @@ pyserial == 3.4
 SpeechRecognition == 3.10.1
 PyAudio == 0.2.14
 
-Ссылка на демонстрацию работы - https://youtu.be/zB08ytq_uDw?si=7p8MMF51McUzl9s6                                                                                                                                                    
-Ссылка на обзор деталей - https://youtu.be/zrq1wCnq098?si=2ZDc70SoIUSz0F8c
+Ссылка на демонстрацию работы - https://youtu.be/o28ZL2tiJ1w?si=J20RXfJSeuTguwsM                                                                                        
 
 Спасибо за прочтение, команда "Осознание"!
